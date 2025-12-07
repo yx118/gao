@@ -6,7 +6,7 @@ var rule = {
 	filter_url:'',
 	filter:{
 	},
-	searchUrl: '/api/search?kw=**',
+	searchUrl: '/api/search?cloud_types=quark,uc,115,aliyun&kw=**',
 	searchable:2,
 	quickSearch:0,
 	filterable:0,
